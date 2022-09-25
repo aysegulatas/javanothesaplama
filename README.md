@@ -1,0 +1,2 @@
+# javanothesaplama
+www.patika.dev
